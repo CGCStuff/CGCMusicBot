@@ -1,0 +1,12 @@
+{
+    "prefix": ";",
+    "emoji": {
+        "play": "▶️",
+        "stop": "⏹️",
+        "queue": "📄",
+        "success": "✅",
+        "repeat": "🔁",
+        "error": "❌",
+        "happy": "🙂"
+    }
+}
